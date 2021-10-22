@@ -1,5 +1,9 @@
 # SEO and Marketing Services
 
+# [github url link](https://github.com/salmanghouse1/horiseon)
+
+# [webpage urk link](https://salmanghouse1.github.io/horiseon/Develop/)
+
 ## Purpose
 A website that offers SEO and Marketing Services.
 
