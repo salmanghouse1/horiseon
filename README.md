@@ -2,7 +2,7 @@
 
 # [github url link](https://github.com/salmanghouse1/horiseon)
 
-# [webpage urk link](https://salmanghouse1.github.io/horiseon/Develop/)
+# [webpage url link](https://salmanghouse1.github.io/horiseon/)
 
 ## Purpose
 A website that offers SEO and Marketing Services.
